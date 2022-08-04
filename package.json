@@ -10,7 +10,8 @@
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27",
     "pg": "^8.7.3",
-    "pg-connection-string": "^2.5.0"
+    "pg-connection-string": "^2.5.0",
+    "strapi-plugin-populate-deep": "^0.1.2"
   },
   "name": "my-app-name",
   "private": true,
